@@ -1,0 +1,301 @@
+﻿Name		D.O.B.	D.O.D.
+----		------	------
+
+Amy		1900	1950
+
+
+Bruce	        1901    1978
+
+
+Charlotte       1902    1955
+
+
+Dave	        1903	1943
+
+
+Amy		1904	1938
+
+
+Bruce	        1905	1940
+
+   
+Charlotte       1906	1935
+
+
+Dave	 	1907	1959
+
+
+Amy		1908	1967
+
+
+Bruce	 	1909	1945
+
+
+Charlotte	1910	1960
+
+
+Dave	 	1911	1954
+
+
+Amy		1912	1940
+
+
+Bruce	 	1913	1966
+
+
+Charlotte	1914	1954
+
+
+Dave	 	1915	1960
+
+
+Amy		1916	1954
+
+
+Bruce	 	1917	1957
+
+
+Charlotte	1918	1955
+
+
+Dave	 	1919	1968
+
+
+Amy		1920	1958
+
+
+Bruce	 	1921	1969
+
+
+Charlotte	1922	1972
+
+
+Dave	 	1923	1967
+
+
+Amy      	1924	1996
+
+
+Bruce	 	1925	1986
+
+
+Charlotte	1926	1989
+
+
+Dave	 	1927	1987
+
+
+Amy		1928	1998
+
+
+Bruce	 	1929	1999
+
+
+Charlotte	1930	1990
+
+
+Dave	 	1931	1987
+
+
+Amy		1932	1989
+
+
+Bruce	 	1933	1989
+
+
+Charlotte	1934	2000
+
+
+Dave	 	1935	1999
+
+
+Amy		1936	2001
+
+
+Bruce	 	1937	1999
+
+
+Charlotte	1938	2009
+
+
+Dave	 	1939	2010
+
+
+Amy		1940	2024
+
+
+Bruce	 	1941	2002
+
+
+Charlotte	1942	2000
+
+
+Dave	 	1943	2031
+
+
+Amy		1944	2032
+
+
+Bruce	 	1945	2034
+
+
+Charlotte	1946	2004
+
+
+Dave	 	1947	2000
+
+
+Amy      	1948	2022
+
+
+Bruce	 	1949	2019
+
+
+Charlotte	1950	2018
+
+
+Dave	 	1951	2017
+
+
+Amy		1952	2020
+
+
+Bruce	 	1953	2018
+
+
+Charlotte	1954	2028
+
+
+Dave	 	1955	2054
+
+
+Amy		1956	2036
+
+
+Bruce	 	1957	2020
+
+
+Charlotte	1958	2019
+
+
+Dave	 	1959	2026
+
+
+Amy		1960	2022
+
+
+Bruce	 	1961	2027
+
+
+Charlotte	1962	2030
+
+
+Dave	 	1963	2029
+
+
+Amy		1964	2034
+
+
+Bruce	 	1965	2030
+
+
+Charlotte	1966	2034
+
+
+Dave	 	1967	2032
+
+
+Amy		1968	2035
+
+
+Bruce	 	1969	2050
+
+
+Charlotte	1970	2044
+
+
+Dave	 	1971	2040
+
+
+Amy      	1972	2045
+
+
+Bruce	 	1973	2043
+
+
+Charlotte	1974	2048
+
+
+Dave	 	1975	2054
+
+
+Amy		1976	2059
+
+
+Bruce	 	1977	2057
+
+
+Charlotte	1978	2052
+
+
+Dave	 	1979	2060
+
+
+Amy		1980	2054
+
+
+Bruce	 	1981	2069
+
+
+Charlotte	1982	2075
+
+
+Dave	 	1983	2073
+
+
+Amy		1984	2069
+
+
+Bruce	 	1985	2077
+
+
+Charlotte	1986	2075
+
+
+Dave	 	1987	2085
+
+
+Amy		1989	2044
+
+
+Bruce	 	1990	2090
+
+
+Charlotte	1991	2077
+
+
+Dave	 	1992	2083
+
+
+Amy		1993	2086
+
+
+Bruce	 	1994	2090
+
+
+Charlotte	1995	2087
+
+
+Dave		1996	2092
+
+
+Amy		1997	2088
+
+
+Bruce		1998	2090
+
+
+Charlotte	1999	2098
+
+
+Dave	    	2000	2094
