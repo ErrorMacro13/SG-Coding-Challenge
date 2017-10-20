@@ -1,301 +1,202 @@
-﻿Name		D.O.B.	D.O.D.
-----		------	------
-
-Amy		1900	1950
-
-
-Bruce	        1901    1978
-
-
-Charlotte       1902    1955
-
-
-Dave	        1903	1943
-
-
-Amy		1904	1938
-
-
-Bruce	        1905	1940
-
-   
-Charlotte       1906	1935
-
-
-Dave	 	1907	1959
-
-
-Amy		1908	1967
-
-
-Bruce	 	1909	1945
-
-
-Charlotte	1910	1960
-
-
-Dave	 	1911	1954
-
-
-Amy		1912	1940
-
-
-Bruce	 	1913	1966
-
-
-Charlotte	1914	1954
-
-
-Dave	 	1915	1960
-
-
-Amy		1916	1954
-
-
-Bruce	 	1917	1957
-
-
-Charlotte	1918	1955
-
-
-Dave	 	1919	1968
-
-
-Amy		1920	1958
-
-
-Bruce	 	1921	1969
-
-
-Charlotte	1922	1972
-
-
-Dave	 	1923	1967
-
-
-Amy      	1924	1996
-
-
-Bruce	 	1925	1986
-
-
-Charlotte	1926	1989
-
-
-Dave	 	1927	1987
-
-
-Amy		1928	1998
-
-
-Bruce	 	1929	1999
-
-
-Charlotte	1930	1990
-
-
-Dave	 	1931	1987
-
-
-Amy		1932	1989
-
-
-Bruce	 	1933	1989
-
-
-Charlotte	1934	2000
-
-
-Dave	 	1935	1999
-
-
-Amy		1936	2001
-
-
-Bruce	 	1937	1999
-
-
-Charlotte	1938	2009
-
-
-Dave	 	1939	2010
-
-
-Amy		1940	2024
-
-
-Bruce	 	1941	2002
-
-
-Charlotte	1942	2000
-
-
-Dave	 	1943	2031
-
-
-Amy		1944	2032
-
-
-Bruce	 	1945	2034
-
-
-Charlotte	1946	2004
-
-
-Dave	 	1947	2000
-
-
-Amy      	1948	2022
-
-
-Bruce	 	1949	2019
-
-
-Charlotte	1950	2018
-
-
-Dave	 	1951	2017
-
-
-Amy		1952	2020
-
-
-Bruce	 	1953	2018
-
-
-Charlotte	1954	2028
-
-
-Dave	 	1955	2054
-
-
-Amy		1956	2036
-
-
-Bruce	 	1957	2020
-
-
-Charlotte	1958	2019
-
-
-Dave	 	1959	2026
-
-
-Amy		1960	2022
-
-
-Bruce	 	1961	2027
-
-
-Charlotte	1962	2030
-
-
-Dave	 	1963	2029
-
-
-Amy		1964	2034
-
-
-Bruce	 	1965	2030
-
-
-Charlotte	1966	2034
-
-
-Dave	 	1967	2032
-
-
-Amy		1968	2035
-
-
-Bruce	 	1969	2050
-
-
-Charlotte	1970	2044
-
-
-Dave	 	1971	2040
-
-
-Amy      	1972	2045
-
-
-Bruce	 	1973	2043
-
-
-Charlotte	1974	2048
-
-
-Dave	 	1975	2054
-
-
-Amy		1976	2059
-
-
-Bruce	 	1977	2057
-
-
-Charlotte	1978	2052
-
-
-Dave	 	1979	2060
-
-
-Amy		1980	2054
-
-
-Bruce	 	1981	2069
-
-
-Charlotte	1982	2075
-
-
-Dave	 	1983	2073
-
-
-Amy		1984	2069
-
-
-Bruce	 	1985	2077
-
-
-Charlotte	1986	2075
-
-
-Dave	 	1987	2085
-
-
-Amy		1989	2044
-
-
-Bruce	 	1990	2090
-
-
-Charlotte	1991	2077
-
-
-Dave	 	1992	2083
-
-
-Amy		1993	2086
-
-
-Bruce	 	1994	2090
-
-
-Charlotte	1995	2087
-
-
-Dave		1996	2092
-
-
-Amy		1997	2088
-
-
-Bruce		1998	2090
-
-
-Charlotte	1999	2098
-
-
-Dave	    	2000	2094
+﻿
+Amy			Birth: 1900	Death: 1950
+					   				   
+Bruce	        	Birth: 1901	Death: 1978
+					   				   
+Charlotte       	Birth: 1902	Death: 1955
+					   				   
+Dave	        	Birth: 1903	Death: 1943
+					   				   
+Amy			Birth: 1904	Death: 1938
+					   				   
+Bruce	        	Birth: 1905	Death: 1940
+					   				   
+Charlotte       	Birth: 1906	Death: 1935
+					   				   
+Dave	 		Birth: 1907	Death: 1959
+					   				   
+Amy			Birth: 1908	Death: 1967
+					   				   
+Bruce	 		Birth: 1909	Death: 1945
+					   				   
+Charlotte		Birth: 1910	Death: 1960
+					   				   
+Dave	 		Birth: 1911	Death: 1954
+					   				   
+Amy			Birth: 1912	Death: 1940
+					   				   
+Bruce	 		Birth: 1913	Death: 1966
+					   				   
+Charlotte		Birth: 1914	Death: 1954
+					   				   
+Dave	 		Birth: 1915	Death: 1960
+					   				   
+Amy			Birth: 1916	Death: 1954
+					   				   
+Bruce	 		Birth: 1917	Death: 1957
+					   				   
+Charlotte		Birth: 1918	Death: 1955
+					   				   
+Dave	 		Birth: 1919	Death: 1968
+					   				   
+Amy			Birth: 1920	Death: 1958
+					   				   
+Bruce	 		Birth: 1921	Death: 1969
+					   				   
+Charlotte		Birth: 1922	Death: 1972
+					   				   
+Dave	 		Birth: 1923	Death: 1967
+					   				   
+Amy      		Birth: 1924	Death: 1996
+					   				   
+Bruce	 		Birth: 1925	Death: 1986
+					   				   
+Charlotte		Birth: 1926	Death: 1989
+					   				   
+Dave	 		Birth: 1927	Death: 1987
+					   				   
+Amy			Birth: 1928	Death: 1998
+					   				   
+Bruce	 		Birth: 1929	Death: 1999
+					   				   
+Charlotte		Birth: 1930	Death: 1990
+					   				   
+Dave	 		Birth: 1931	Death: 1987
+					   				   
+Amy			Birth: 1932	Death: 1989
+					   				   
+Bruce	 		Birth: 1933	Death: 1989
+					   				   
+Charlotte		Birth: 1934	Death: 2000
+					   				   
+Dave	 		Birth: 1935	Death: 1999
+					   				   
+Amy			Birth: 1936	Death: 2001
+					   				   
+Bruce	 		Birth: 1937	Death: 1999
+					   				   
+Charlotte		Birth: 1938	Death: 2009
+					   				   
+Dave	 		Birth: 1939	Death: 2010
+					   				   
+Amy			Birth: 1940	Death: 2024
+					   				   
+Bruce	 		Birth: 1941	Death: 2002
+					   				   
+Charlotte		Birth: 1942	Death: 2000
+					   				   
+Dave	 		Birth: 1943	Death: 2031
+					   				   
+Amy			Birth: 1944	Death: 2032
+					   				   
+Bruce	 		Birth: 1945	Death: 2034
+					   				   
+Charlotte		Birth: 1946	Death: 2004
+					   				   
+Dave	 		Birth: 1947	Death: 2000
+					   				   
+Amy      		Birth: 1948	Death: 2022
+					   				   
+Bruce	 		Birth: 1949	Death: 2019
+					   				   
+Charlotte		Birth: 1950	Death: 2018
+					   				   
+Dave			Birth: 1951	Death: 2017
+					   				   
+Amy			Birth: 1952	Death: 2020
+					   				   
+Bruce	 		Birth: 1953	Death: 2018
+					   				   
+Charlotte		Birth: 1954	Death: 2028
+					   				   
+Dave	 		Birth: 1955	Death: 2054
+					   				   
+Amy			Birth: 1956	Death: 2036
+					   				   
+Bruce	 		Birth: 1957	Death: 2020
+					   				   
+Charlotte		Birth: 1958	Death: 2019
+					   				   
+Dave	 		Birth: 1959	Death: 2026
+					   				   
+Amy			Birth: 1960	Death: 2022
+					   				   
+Bruce	 		Birth: 1961	Death: 2027
+					   				   
+Charlotte		Birth: 1962	Death: 2030
+					   				   
+Dave	 		Birth: 1963	Death: 2029
+					   				   
+Amy			Birth: 1964	Death: 2034
+					   				   
+Bruce	 		Birth: 1965	Death: 2030
+					   				   
+Charlotte		Birth: 1966	Death: 2034
+					   				   
+Dave	 		Birth: 1967	Death: 2032
+					   				   
+Amy			Birth: 1968	Death: 2035
+					   				   
+Bruce	 		Birth: 1969	Death: 2050
+					   				   
+Charlotte		Birth: 1970	Death: 2044
+					   				   
+Dave	 		Birth: 1971	Death: 2040
+					   				   
+Amy      		Birth: 1972	Death: 2045
+						 			   
+Bruce	 		Birth: 1973	Death: 2043
+						 			   
+Charlotte		Birth: 1974	Death: 2048
+						 			   
+Dave	 		Birth: 1975	Death: 2054
+						 			   
+Amy			Birth: 1976	Death: 2059
+						 			   
+Bruce	 		Birth: 1977	Death: 2057
+						 			   
+Charlotte		Birth: 1978	Death: 2052
+						 			   
+Dave	 		Birth: 1979	Death: 2060
+						 			   
+Amy			Birth: 1980	Death: 2054
+ 						 			   
+Bruce	 		Birth: 1981	Death: 2069
+						 			   
+Charlotte		Birth: 1982	Death: 2075
+						 			   
+Dave	 		Birth: 1983	Death: 2073
+						 			   
+Amy			Birth: 1984	Death: 2069
+						 			   
+Bruce	 		Birth: 1985	Death: 2077
+						 			   
+Charlotte		Birth: 1986	Death: 2075
+						 			   
+Dave	 		Birth: 1987	Death: 2085
+ 						 			   
+Amy			Birth: 1988	Death: 2044
+						 			   
+Bruce	 		Birth: 1989	Death: 2090
+						 			   
+Charlotte		Birth: 1990	Death: 2077
+						 			   
+Dave	 		Birth: 1991	Death: 2083
+						 			   
+Amy			Birth: 1992	Death: 2086
+						 			   
+Bruce	 		Birth: 1993	Death: 2090
+						 			   
+Charlotte		Birth: 1994	Death: 2087
+						 			   
+Dave			Birth: 1995	Death: 2092
+						 			   
+Amy			Birth: 1996	Death: 2088
+						 			   
+Bruce			Birth: 1997	Death: 2090
+						 			   
+Charlotte		Birth: 1998	Death: 2098
+						 			   
+Dave	    		Birth: 1999	Death: 2094
+
+Amy			Birth: 2000	Death: 2109
